@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Beomjo Park"
-  avatar           : "profile.jfif"
-  bio              : "Ph.D. student in Statistics & Data Science @ CMU"
-  location         : "Pittsburgh, PA"
+  avatar           : "profile.jpg"
+  bio              : "Data Scientist, Research @ Google"
+  location         : "Mountain View, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=PnkT7tEAAAAJ"
