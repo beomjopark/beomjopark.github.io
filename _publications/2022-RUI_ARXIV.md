@@ -8,5 +8,6 @@ venue: ''
 link: 'https://arxiv.org/abs/2307.04034'
 citation: '<b>Beomjo Park</b>, Sivaraman Balakrishnan, Larry Wasserman.
 &nbsp;&nbsp; 
+<br/><i>Biometrika.</i>, 2025
 <br/><b>&#8277; Winner of ASA Statistical Learning and Data Science Student Paper Award</b>'
 ---
