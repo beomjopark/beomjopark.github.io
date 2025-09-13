@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<iframe src="/files/BeomjoPark_CV_202507.pdf" style="position:absolute;top:50;left:100;width:70%;height:60%;" frameborder="no" border="0" allowfullscreen></iframe>
+<iframe src="/files/BeomjoPark_CV_202509.pdf" style="position:absolute;top:50;left:100;width:70%;height:60%;" frameborder="no" border="0" allowfullscreen></iframe>
 
 You can download a PDF copy of my CV [here](/files/BeomjoPark_CV_202509.pdf).
 
