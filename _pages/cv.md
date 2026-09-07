@@ -7,6 +7,32 @@ redirect_from:
   - /resume
 ---
 
+<style>
+  .cv-pdf-viewer {
+    width: 100%;
+    margin-bottom: 1em;
+  }
+
+  .cv-pdf-viewer iframe {
+    display: block;
+    width: 100%;
+    height: 75vh;
+    min-height: 30rem;
+    border: 0;
+  }
+
+  @media screen and (min-width: 600px) {
+    .cv-pdf-viewer {
+      width: 66vw;
+    }
+
+    .cv-pdf-viewer iframe {
+      height: 70vh;
+      min-height: 34rem;
+    }
+  }
+</style>
+
 <div class="cv-pdf-viewer">
   <iframe src="/files/BeomjoPark_CV-2607.pdf" title="Beomjo Park CV"></iframe>
 </div>
