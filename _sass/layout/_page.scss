@@ -107,6 +107,25 @@
   }
 }
 
+.cv-pdf-viewer {
+  margin-bottom: 1em;
+
+  iframe {
+    display: block;
+    width: 100%;
+    height: 70vh;
+    min-height: 34rem;
+    border: 0;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .cv-pdf-viewer iframe {
+    height: 75vh;
+    min-height: 30rem;
+  }
+}
+
 .page__hero {
   position: relative;
   margin-bottom: 2em;

@@ -7,7 +7,9 @@ redirect_from:
   - /resume
 ---
 
-<iframe src="/files/BeomjoPark_CV-2607.pdf" style="position:absolute;top:50;left:100;width:70%;height:60%;" frameborder="no" border="0" allowfullscreen></iframe>
+<div class="cv-pdf-viewer">
+  <iframe src="/files/BeomjoPark_CV-2607.pdf" title="Beomjo Park CV"></iframe>
+</div>
 
 You can download a PDF copy of my CV [here](/files/BeomjoPark_CV-2607.pdf).
 
