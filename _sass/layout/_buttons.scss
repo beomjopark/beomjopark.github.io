@@ -158,17 +158,17 @@
     display: inline-block;
     margin-bottom: 0.25em;
     padding: 0.125em 0.25em;
-    color: $link-color;
+    color: var(--global-link-color);
     text-align: center;
     text-decoration: none !important;
     border: 1px solid;
-    border-color: $link-color;
+    border-color: var(--global-link-color);
     border-radius: $border-radius;
     cursor: pointer;
 
     &:hover {
       color: #fff;
-      background-color: $link-color !important;
+      background-color: var(--global-link-color) !important;
     }
   }
 
